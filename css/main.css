@@ -1,11 +1,10 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: 'Merriweather', serif;
 }
 
 table {
   border-collapse: collapse;
 }
-
 
 th, td {
   border: 1px solid #ccc;
